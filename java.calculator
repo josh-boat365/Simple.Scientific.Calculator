@@ -118,7 +118,7 @@ public class calCulator {
                 break;
             default:
                 System.out.println("Invalid Operator");
-                break;
+               
         }
 
     }
